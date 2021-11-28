@@ -1,0 +1,23 @@
+{
+  "name": "petshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexTprog/petshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexTprog/petshop/issues"
+  },
+  "homepage": "https://github.com/AlexTprog/petshop#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
