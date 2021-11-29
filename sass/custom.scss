@@ -5,9 +5,21 @@ $success: #49556B;
 $dark: #18202D;
 $secondary: #EDF2F8;
 
+$container-max-widths: (
+    sm: 540px,
+    md: 720px,
+    lg: 950px,
+    xl: 1140px,
+    xxl: 1320px
+)!default;
+
+
 .fondo-card{
-    
+    background-image: url("../img/");
+    background-repeat: no-repeat;
+    background-position: 85% top;
 }
+
 
 .d-flex img{
     width: 40px;

@@ -1,4 +1,10 @@
 @charset "UTF-8";
+.fondo-card {
+  background-image: url("../img/");
+  background-repeat: no-repeat;
+  background-position: 85% top;
+}
+
 .d-flex img {
   width: 40px;
 }
@@ -651,7 +657,7 @@ progress {
 }
 @media (min-width: 992px) {
   .container-lg, .container-md, .container-sm, .container {
-    max-width: 960px;
+    max-width: 950px;
   }
 }
 @media (min-width: 1200px) {
